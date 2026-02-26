@@ -1,0 +1,28 @@
+{
+  "name": "skillshield",
+  "version": "1.0.0",
+  "description": "AI Agent Skill Security Scanner - Detect malicious skills, verify signatures, analyze permissions, and provide trust ratings",
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "repository": "https://github.com/openclaw/skillshield",
+  "tags": ["security", "skill", "scanner", "malware-detection", "audit"],
+  "triggers": [
+    "skillshield",
+    "scan skill",
+    "skill security",
+    "check skill",
+    "verify skill",
+    "skill audit",
+    "security scan"
+  ],
+  "requires": [],
+  "entry": "scripts/skillshield.py",
+  "compatible_agents": ["claude-code", "openclaw", "cursor", "codex"],
+  "features": [
+    "恶意代码检测",
+    "权限分析",
+    "信任评级",
+    "Moltbook 集成",
+    "签名验证"
+  ]
+}
