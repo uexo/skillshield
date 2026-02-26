@@ -16,6 +16,13 @@
     "security scan"
   ],
   "requires": [],
+  "files": [
+    "SKILL.md",
+    "README.md",
+    "_meta.json",
+    "scripts/skillshield.py",
+    "scripts/moltbook_guardian.py"
+  ],
   "entry": "scripts/skillshield.py",
   "compatible_agents": ["claude-code", "openclaw", "cursor", "codex"],
   "features": [
