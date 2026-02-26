@@ -1,8 +1,0 @@
-{
-  "name": "skillshield",
-  "version": "1.0.0",
-  "description": "AI Agent Skill Security Scanner",
-  "author": "uexo",
-  "tags": ["security", "scanner"],
-  "triggers": ["skillshield", "scan skill", "skill security"]
-}
